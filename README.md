@@ -1,5 +1,7 @@
 # do_what_i_want()
 
+WARNING! First 'works for me' version!
+
 > A Python function that accepts a plain-English task description and produces a result. No schema definitions. No method chaining. No configuration per call. You tell it what you want; it attempts to deliver.
 
 ```python
