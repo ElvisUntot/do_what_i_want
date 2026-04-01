@@ -207,4 +207,4 @@ MIT. Use it however you like. Attribution is appreciated but not required.
 
 ## Origin
 
-The name and concept are inspired by a webcomic in which a programmer, frustrated with the specificity demanded by conventional APIs, sets out to build a function that simply does what he wants. At the time, this was a joke. It remains, at least partially, a joke.
+The name and concept are inspired by a webcomic in which a programmer, frustrated with the specificity demanded by conventional APIs, sets out to build a function that simply does what he wants. At the time, this was a joke. It remains, at least partially, a joke. Also, yes, this is low efford and done by Claude.
