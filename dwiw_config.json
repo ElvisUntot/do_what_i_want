@@ -1,0 +1,27 @@
+{
+  "default_backend": "claude",
+
+  "claude": {
+    "api_key": "sk-ant-...",
+    "model": "claude-haiku-4-5",
+    "max_tokens": 4096,
+    "base_url": "https://api.anthropic.com/v1"
+  },
+
+  "local": {
+    "api_key": "lm-studio",
+    "model": "lmstudio-community/gemma-3-4b",
+    "max_tokens": 4096,
+    "base_url": "http://localhost:1234/v1"
+  },
+
+  "openai": {
+    "api_key": "sk-...",
+    "model": "gpt-4o-mini",
+    "max_tokens": 4096,
+    "base_url": "https://api.openai.com/v1"
+  },
+
+  "execute_timeout": 10,
+  "verbose": false
+}
